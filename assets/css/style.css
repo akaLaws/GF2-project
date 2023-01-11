@@ -1,0 +1,14 @@
+@import url('https://api.fontshare.com/v2/css?f[]=synonym@400&f[]=amulya@700&display=swap');
+@import url('variables.css');
+@import url('layout.css');
+@import url('base.css');
+@import url('menu.css');
+@import url('hero.css');
+@import url('cards.css');
+@import url('slider.css');
+@import url('products.css');
+@import url('icons.css');
+@import url('logo.css');
+@import url('getquote.css');
+@import url('info.css');
+@import url('footer.css');

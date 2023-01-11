@@ -1,0 +1,12 @@
+:root{
+    --yellow: rgba(255, 202, 39);
+    --blue:rgba(21, 94, 117);
+    --gray:rgba(229, 231, 235);
+    --white:rgba(248, 250, 252);
+
+    --shadow:2px 2px 10px rgba(50,50,50,0.1);
+    --corners: 5px;
+
+    --font-base: 'Synonym', sans-serif;
+    --font-accent:'Amulya', sans-serif;
+}

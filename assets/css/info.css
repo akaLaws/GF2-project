@@ -1,0 +1,33 @@
+.info{
+    width:100%;
+    padding: 4rem 0;
+
+    text-align:center;
+}
+
+.info p{
+    max-width:60%;
+    margin: auto;
+    padding: 2rem 0 2rem 0;
+}
+
+.info h2{
+    font-size: xx-large;
+}
+
+.info h4{
+    font-size: x-large;
+    color: var(--yellow);
+    padding: 1rem 0;
+    text-transform: uppercase;
+    font-family: var(--font-accent);
+}
+
+.info li, p{
+    font-size: large;
+}
+
+.blue p:last-of-type{
+    padding:0;
+    font-size: clamp(1em, 5vw, 3.5em);
+}

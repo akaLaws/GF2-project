@@ -1,0 +1,13 @@
+footer section{
+    width:20%;
+    max-width:300px;
+    flex: 1 1;
+}
+
+@media screen and (max-width:600px){
+    footer section{
+        width:50%;
+        min-width:250px;
+    }
+}
+
